@@ -1,0 +1,133 @@
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: #e8d2f2
+}
+
+h1{
+    background-color: #e7cbf5;
+    color: blue;
+    text-align: center;
+    font-size: 46px;
+    margin-bottom: 0;
+    
+    
+}
+h2{
+    background-color:#f7c9c9;
+    color: blue;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid;
+    
+}
+h3, h8 , h9 {
+    background-color:#f7c9c9;
+    color: blue;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 22px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    border-bottom: 3px solid;
+}
+.p0{
+    font-size: 8px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.subtitle{
+    margin-top: 0;
+    background-color: #e1c3f1;
+}
+.p1{
+    text-align: left;
+    font-size: 10px;
+}
+
+.p2{
+    text-align: left;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.p3{
+    text-align: left;
+    font-size: 10px
+}
+
+.p4{
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.p6, .p8, .p10, .p11, .p13, .p14, .p16, .p18{
+    text-align: left;
+    font-size: 10px
+}
+.p7, .p9, .p12, .p15, .p17, .p19{
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+ul{
+    font-size: 10px;
+    padding-left: 0px;
+
+
+    
+}
+li{
+    
+    list-style-position: inside;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+.menu{
+    text-align: center;
+}
+
+
+.menu li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+
+
+.menu a{
+    background-color: #c1bebe;
+    padding: 16px;
+    display: block;
+}
+.menu a:hover{
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+}

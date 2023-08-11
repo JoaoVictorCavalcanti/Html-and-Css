@@ -1,0 +1,66 @@
+h1{
+    color: black;
+    text-transform: lowercase;
+    font-family:  sans-serif;
+    font-size: 56px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2{
+    font-size: 52px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h3{
+    font-size: 48px;
+    font-style: oblique;
+    text-transform:capitalize;
+    text-align: center;
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+p{
+    text-indent: 28px;
+    font-size: 28px;
+    text-align: left;
+    /* color: blue;*/
+    font-variant: small-caps;
+    
+}
+a{
+    text-decoration: none;
+    font-variant: normal;
+    
+}
+.destaque{
+    color: #05fd09;
+    font-weight: bold;
+}
+#title{
+    color: rgb(215, 143, 8);
+    text-transform: capitalize;
+}
+.p1{
+    color: #05fd09;
+    text-indent: 10px;
+    text-align: center;
+}
+.link1{
+    font-size: 34px;
+    text-decoration: underline;
+}
+.link2{
+    font-size: 34px;
+    text-decoration: none;
+}
+.link3{
+    font-size: 34px;
+    text-decoration: none;
+}
+.link4{
+    font-size: 34px;
+    text-decoration: none;
+}

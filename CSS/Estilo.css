@@ -1,0 +1,19 @@
+h1{
+    background-color: red;
+    font-style: italic;
+    font-size: 75px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding: 15px;
+    margin: 25px;
+}
+#paragrafo{
+    color: green;
+    padding: 25px;
+    margin: 15px;
+    font-size: 54px;
+    text-transform: lowercase;
+    text-decoration: line-through;
+    text-indent: 10px
+}
